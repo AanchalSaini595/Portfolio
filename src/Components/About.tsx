@@ -5,7 +5,7 @@ export default function About()
   <div className="container mt-5">
     <div className="row align-items-center">
       <div className="col-md-5 text-center mb-4">
-        <img src="my-app/public/aanchal_v2_headshot.jpg"  className="img-fluid shadow rounded-circle" />
+        <img src="/aanchal_v2_headshot.jpg"  className="img-fluid shadow rounded-circle" />
       </div>
 
       <div className="col-md-7">
