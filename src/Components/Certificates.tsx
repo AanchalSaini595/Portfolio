@@ -14,7 +14,7 @@ const Certificates = () => {
   <div className="col-md-4">
     <div className="card h-100 shadow-sm border-0 position-relative overflow-hidden">
       <img
-        src="Screenshot (35).png"
+        src="/Screenshot (35).png"
         className="card-img-top"
         alt="Python Certificate"
         style={{ height: "250px", objectFit: "cover" }}
@@ -38,7 +38,7 @@ const Certificates = () => {
   <div className="col-md-4">
     <div className="card h-100 shadow-sm border-0 position-relative overflow-hidden">
       <img
-        src="Screenshot (36).png"
+        src="/Screenshot (36).png"
         className="card-img-top"
         alt="Data Science Certificate"
         style={{ height: "250px", objectFit: "cover" }}
@@ -63,7 +63,7 @@ const Certificates = () => {
   <div className="col-md-4">
     <div className="card h-100 shadow-sm border-0 position-relative overflow-hidden">
       <img
-        src="Screenshot (37).png"
+        src="/Screenshot (37).png"
         className="card-img-top"
         alt="AI Workshop"
         style={{ height: "250px", objectFit: "cover" }}
@@ -89,7 +89,7 @@ const Certificates = () => {
   <div className="col-md-4">
     <div className="card h-100 shadow-sm border-0 position-relative overflow-hidden">
       <img
-        src="Screenshot (38).png"
+        src="/Screenshot (38).png"
         className="card-img-top"
         alt="AI Workshop"
         style={{ height: "250px", objectFit: "cover" }}

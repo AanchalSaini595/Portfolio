@@ -4,33 +4,33 @@ const projects = [
   {
     title: "Expense Tracker",
     text: "A full-stack Flask + React/TypeScript app for tracking and visualizing daily expenses, deployed with a live SQLite-backed API.",
-    img: "expense.jpg",
+    img: "/expense.jpg",
     link: "https://github.com/AanchalSaini595/Expenses_Tracker",
     liveDemo: "https://expenses-tracker-frontend-teow.onrender.com",
   },
   {
     title: "Currency Converter",
     text: "A currency converter using live API integration and AI-based rate analysis.",
-    img: "currency_exchange.jpg",
+    img: "/currency_exchange.jpg",
     link: "https://github.com/AanchalSaini595/Majorproject",
     liveDemo: "https://aanchalsaini595.github.io/Majorproject/",
   },
   {
     title: "Speech Recognizer & Responder",
     text: "Python-powered voice assistant that listens, processes speech, and responds interactively.",
-    img: "talk.jpg",
+    img: "/talk.jpg",
     link: "https://github.com/AanchalSaini595/SPEECH_RECOGNIZER_-_RESPONDER.PY",
   },
   {
     title: "Automatic Email Replier",
     text: "Automates email replies using Python and Gmail API — perfect for workflow efficiency.",
-    img: "reply.jpg",
+    img: "/reply.jpg",
     link: "https://github.com/AanchalSaini595/AUTOMATIC_EMAIL_REPLIER.PY",
   },
   {
     title: "Python MCQ Quiz App",
     text: "Interactive quiz app built with Tkinter — a fun and educational GUI project.",
-    img: "mcq.jpg",
+    img: "/mcq.jpg",
     link: "https://github.com/AanchalSaini595/Tkinter_python_mcq_quiz",
   },
 ];
